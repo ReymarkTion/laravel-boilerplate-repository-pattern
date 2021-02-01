@@ -1,4 +1,4 @@
-# Shiftech Marine Admin API
+# Repository Pattern Boilerplate
 
 ### Clone repository
 ```
@@ -30,3 +30,6 @@ php artisan migrate --seed && php artisan passport:install
 ```
 php artisan test
 ```
+
+# Credits
+Master Dwiff Baconguis
